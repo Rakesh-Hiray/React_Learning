@@ -1,0 +1,19 @@
+{
+  "name": "demo_project",
+  "version": "1.0.0",
+  "description": "this is a demo library ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "project",
+    "frontend"
+  ],
+  "author": "@rakesh",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
